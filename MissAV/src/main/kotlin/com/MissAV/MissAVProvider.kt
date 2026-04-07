@@ -1,4 +1,4 @@
-package com.MissAv
+8package com.MissAv
 
 import org.jsoup.nodes.Element
 import com.lagradost.cloudstream3.*
@@ -21,7 +21,7 @@ class MissAVProvider : MainAPI() {
             "/en/today-hot" to "Most Viewed Today",
             "/en/weekly-hot" to "Most Viewed by Week",
             "/en/monthly-hot" to "Most Viewed by Month",
-            "/en/fc2" to "Uncensored FC2 AV",
+            "/dm150/en/fc2" to "Uncensored FC2 AV",
             "/en/madou" to "Madou AV",
             "/en/uncensored-leak" to "Uncensored Leak",
             "/en/klive" to "Korean Live AV"
